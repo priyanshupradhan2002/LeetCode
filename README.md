@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1755-defuse-the-bomb](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
