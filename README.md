@@ -17,6 +17,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [2089-maximum-matrix-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -64,11 +66,13 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Divide and Conquer
@@ -101,8 +105,10 @@
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
