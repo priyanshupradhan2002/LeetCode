@@ -11,6 +11,7 @@
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0954-maximum-sum-circular-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Sliding Window
@@ -56,6 +58,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0027-remove-element) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1972-rotating-the-box) |
 ## Greedy
 |  |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +124,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
