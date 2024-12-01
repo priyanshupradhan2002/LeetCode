@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -37,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3451-string-compression-iii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3451-string-compression-iii) |
 ## Matrix
@@ -127,5 +129,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
