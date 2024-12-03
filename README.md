@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0016-3sum-closest) |
@@ -106,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
