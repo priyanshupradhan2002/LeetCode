@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -69,6 +70,7 @@
 | [0015-3sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1972-rotating-the-box) |
