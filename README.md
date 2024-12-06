@@ -24,6 +24,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0011-container-with-most-water) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,6 +164,7 @@
 | [0016-3sum-closest](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |
 | ------- |
