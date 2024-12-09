@@ -1,3 +1,4 @@
+
 class Solution {
     public boolean[] isArraySpecial(int[] nums, int[][] queries) {
         int n = nums.length;
