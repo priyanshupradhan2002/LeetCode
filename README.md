@@ -27,6 +27,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3427-special-array-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
@@ -138,10 +139,12 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3427-special-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [3427-special-array-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
