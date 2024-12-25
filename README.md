@@ -234,4 +234,12 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
