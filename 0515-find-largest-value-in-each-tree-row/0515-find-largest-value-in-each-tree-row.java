@@ -13,34 +13,32 @@
  *     }
  * }
  */
-// class Solution {
-//     public List<Integer> largestValues(TreeNode root) 
-//     {
-//         //
-//         List<Integer> result=new ArrayList<>();
-
-//     }
-// }
 class Solution {
-    private List<Integer> res;
-    public List<Integer> largestValues(TreeNode root) {
-        res = new ArrayList<>();
-        dfs(root, 0);
-
-        return res;
-    }
-
-    private void dfs(TreeNode root, int level) {
-        if (root != null) {
-            int val = root.val;
-            
-            if (res.size() == level) 
-                res.add(val);
-            else 
-                res.set(level, Math.max(res.get(level), val));
-            
-            dfs(root.left, level + 1);
-            dfs(root.right, level + 1);
-        }
+    public List<Integer> largestValues(TreeNode root) 
+    {
+        //Create one list to return the result
+        List<Integer> result=new ArrayList<>();
+        //Check wheter root is empty or not
+        if(root==null)
+         return result;
+         Queue<TreeNode> queue=new LinkedList<>();
+         queue.add(root);
+         while(!queue.isEmpty())
+         {
+            int n=queue.size();
+            TreeNode current=queue.peek();
+            int max=current.val;
+            for(int i=0;i<n;i++)
+            {
+                current=queue.poll();
+                max=Math.max(max,current.val);
+                if(current.left!=null)
+                 queue.add(current.left);
+                if(current.right!=null)
+                 queue.add(current.right);
+            }
+            result.add(max);
+         }
+         return result;
     }
 }
