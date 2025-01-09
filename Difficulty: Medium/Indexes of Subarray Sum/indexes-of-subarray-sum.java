@@ -31,53 +31,42 @@ class Main {
 
 // } Driver Code Ends
 
+//
 
 
 class Solution {
-    static ArrayList<Integer> subarraySum(int[] arr, int target) 
-    {
-    //   ArrayList<Integer> result=new ArrayList<>();
-    //     int start=0;
-    //     int currentsum=0;
-    //     int end;
-    //     for( end=0;end<arr.length;end++)
-    //     {
-    //       currentsum+=arr[end]; 
-    //     }
+    static ArrayList<Integer> subarraySum(int[] arr, int target) {
+        // ArrayList to store the result
+        ArrayList<Integer> result = new ArrayList<>();
         
-    //      while (currentsum > target) {
-    //             currentsum -= arr[start++];
-    //         }
+        // Two pointers for the sliding window approach
+        int start = 0, end = 0;
+        int currentSum = 0;
         
-    //     if(currentsum==target)
-    //     {
-    //         result.add(start+1);
-    //         result.add(end+1);
-    //         return result;
-    //     }
-         
-    //      result.add(-1);
-    //      return result;
-    ArrayList<Integer> result = new ArrayList<>();
-        int start = 0;
-        int currentSum = 0; // Declare currentSum outside the loop
-
-        for (int end = 0; end < arr.length; end++) { // Declare end here
+        while (end < arr.length) {
+            // Add the current element to currentSum
             currentSum += arr[end];
-
-            while (currentSum > target) {
-                currentSum -= arr[start++];
+            
+            // If currentSum exceeds target, shrink the window from the start
+            while (currentSum > target && start < end) {
+                currentSum -= arr[start];
+                start++;
             }
-
+            
+            // Check if the current sum equals the target
             if (currentSum == target) {
-                result.add(start + 1); // 1-based index for start
-                result.add(end + 1);   // 1-based index for end
-                return result;
+                // Add 1-based indices to the result
+                result.add(start + 1);
+                result.add(end + 1);
+                return result; // Return immediately after finding the first subarray
             }
+            
+            // Expand the window by moving the end pointer
+            end++;
         }
-
-        result.add(-1); // No subarray found
+        
+        // If no subarray is found, return [-1]
+        result.add(-1);
         return result;
     }
 }
- 
