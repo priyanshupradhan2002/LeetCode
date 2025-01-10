@@ -18,6 +18,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0952-word-subsets](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
+| [0952-word-subsets](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -69,6 +71,7 @@
 | [0058-length-of-last-word](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
+| [0952-word-subsets](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
