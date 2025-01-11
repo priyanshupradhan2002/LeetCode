@@ -1,25 +1,28 @@
 class Solution {
-    public boolean canConstruct(String s, int k) 
-    {
-        if(s.length()<k)
-         return false;
-        int n=s.length();
-        int odd=0;
+    public boolean canConstruct(String s, int k) {
+        // Handle edge cases
+        if (s.length() < k) return false;
+        if (s.length() == k) return true;
 
-        HashMap<Character,Integer> map=new HashMap<>();
+        // Initialize frequency array and oddCount
+        int[] freq = new int[26];
+        int oddCount = 0;
 
-        for(int i=0;i<n;i++)
-        {
-            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+        // Increment the value of the index corresponding to the current character
+        for (char chr : s.toCharArray()) {
+            freq[chr - 'a']++;
         }
 
-        for(int i:map.values())
-        {
-            if(i%2!=0)
-            {
-                odd++;
+
+        // Count the number of characters that appear an odd number of times in s
+        for (int count : freq) {
+            if (count % 2 == 1) {
+               oddCount++;
             }
         }
-        return odd<=k;
+
+
+        // Return if the number of odd frequencies is less than or equal to k
+        return oddCount <= k;
     }
 }
