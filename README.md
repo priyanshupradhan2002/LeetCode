@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0952-word-subsets) |
@@ -121,6 +122,7 @@
 | [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -285,6 +287,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0908-middle-of-the-linked-list) |
