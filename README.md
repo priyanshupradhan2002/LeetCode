@@ -119,6 +119,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -281,12 +283,14 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
