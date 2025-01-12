@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0066-plus-one) |
@@ -116,6 +117,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0494-target-sum) |
@@ -254,12 +257,14 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
