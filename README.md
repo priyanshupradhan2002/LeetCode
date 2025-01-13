@@ -189,6 +189,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
