@@ -268,6 +268,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0066-plus-one) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
