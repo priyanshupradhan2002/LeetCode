@@ -40,6 +40,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -321,9 +322,14 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2509-minimize-xor](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
