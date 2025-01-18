@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0217-contains-duplicate) |
@@ -131,6 +132,7 @@
 | [0027-remove-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -256,6 +258,7 @@
 | [0015-3sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
