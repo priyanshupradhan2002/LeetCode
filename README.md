@@ -31,6 +31,7 @@
 | [1063-best-sightseeing-pair](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -106,6 +107,7 @@
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -158,6 +160,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -165,6 +168,7 @@
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -223,6 +227,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -232,6 +237,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Depth-First Search
