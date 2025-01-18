@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0525-contiguous-array) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -259,6 +262,7 @@
 | [0016-3sum-closest](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0242-valid-anagram) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -276,6 +280,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
