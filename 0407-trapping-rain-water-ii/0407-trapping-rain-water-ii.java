@@ -1,49 +1,53 @@
-import java.util.PriorityQueue;
-
 class Solution {
-    public int trapRainWater(int[][] height) {
-        int n = height.length;
-        int m = height[0].length;
-
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
-        boolean[][] vis = new boolean[n][m];
-
-        // Add first and last column
-        for (int i = 0; i < n; i++) {
-            vis[i][0] = true;
-            vis[i][m - 1] = true;
-            pq.offer(new int[]{height[i][0], i, 0});
-            pq.offer(new int[]{height[i][m - 1], i, m - 1});
-        }
-
-        // Add first and last row
+    public int trapRainWater(int[][] heightMap) {
+        int m = heightMap.length;
+        int n = heightMap[0].length;
+        
+        // initialization
+        int[][] vols = new int[m][n];
         for (int i = 0; i < m; i++) {
-            vis[0][i] = true;
-            vis[n - 1][i] = true;
-            pq.offer(new int[]{height[0][i], 0, i});
-            pq.offer(new int[]{height[n - 1][i], n - 1, i});
+            for (int j = 0; j < n; j++) {
+                vols[i][j] = heightMap[i][j];
+            }
         }
 
-        int ans = 0;
-        int[] dr = {-1, 0, 1, 0};
-        int[] dc = {0, -1, 0, 1};
+        //spread
+        boolean upt = true;
+        boolean init = true;
+        while (upt) {
+            upt = false;
+            // from left top
+            for (int i = 1; i < m - 1; i++) {
+                for (int j = 1; j < n - 1; j++) {
+                    int val = Math.max(heightMap[i][j], Math.min(vols[i - 1][j], vols[i][j - 1]));
+                    if (init || vols[i][j] > val) {
+                        vols[i][j] = val;
+                        upt = true;
+                    }
+                }
+            }
+            init = false;
 
-        while (!pq.isEmpty()) {
-            int[] curr = pq.poll();
-            int h = curr[0], r = curr[1], c = curr[2];
-
-            for (int i = 0; i < 4; i++) {
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-
-                if (nr >= 0 && nr < n && nc >= 0 && nc < m && !vis[nr][nc]) {
-                    ans += Math.max(0, h - height[nr][nc]);
-                    pq.offer(new int[]{Math.max(h, height[nr][nc]), nr, nc});
-                    vis[nr][nc] = true;
+            //from down right
+            for (int i = m - 2; i >= 1; i--) {
+                for (int j = n - 2; j >= 1; j--) {
+                    int val = Math.max(heightMap[i][j], Math.min(vols[i + 1][j], vols[i][j + 1]));
+                    if (vols[i][j] > val) {
+                        vols[i][j] = val;
+                        upt = true;
+                    }
                 }
             }
         }
 
-        return ans;
+        // calculate result
+        int res = 0;
+        for (int i = 1; i < m - 1; i++) {
+            for (int j = 1; j < n - 1; j++) {
+                if (vols[i][j] > heightMap[i][j])
+                    res += vols[i][j] - heightMap[i][j];
+            }
+        }
+        return res;
     }
 }
