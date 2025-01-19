@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0407-trapping-rain-water-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0525-contiguous-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -113,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -168,6 +170,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -240,6 +243,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1127-last-stone-weight](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
