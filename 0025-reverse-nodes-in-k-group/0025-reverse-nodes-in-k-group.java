@@ -28,7 +28,7 @@ class Solution {
             curr.next=prev;
             prev=curr;
             curr=next;
-           // length--;
+            //length--;
            count++;
         }
        if(next!=null)
