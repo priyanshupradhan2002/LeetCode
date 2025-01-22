@@ -319,6 +319,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0268-missing-number) |
@@ -351,6 +352,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -361,6 +363,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0206-reverse-linked-list) |
