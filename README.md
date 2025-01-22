@@ -43,6 +43,7 @@
 | [1524-string-matching-in-an-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1876-map-of-highest-peak](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2145-grid-game) |
@@ -125,6 +126,7 @@
 | [0945-snakes-and-ladders](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2145-grid-game) |
@@ -184,6 +186,7 @@
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
