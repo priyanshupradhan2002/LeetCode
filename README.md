@@ -187,6 +187,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -285,6 +286,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1396-count-servers-that-communicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -356,11 +358,13 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Linked List
 |  |
