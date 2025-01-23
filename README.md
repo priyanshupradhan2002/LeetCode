@@ -217,6 +217,7 @@
 | [0005-longest-palindromic-substring](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -327,6 +328,7 @@
 | [0002-add-two-numbers](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0268-missing-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -399,4 +401,8 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
