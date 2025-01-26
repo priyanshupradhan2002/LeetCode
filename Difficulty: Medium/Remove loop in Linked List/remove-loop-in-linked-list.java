@@ -82,9 +82,9 @@ class GFG {
                 System.out.println("false");
             else
                 System.out.println("true");
-        
-System.out.println("~");
-}
+
+            System.out.println("~");
+        }
     }
 }
 
@@ -98,45 +98,46 @@ class Node
     Node next;
 }
 */
+
 class Solution {
     // Function to remove a loop in the linked list.
-    public static void removeLoop(Node head) {
-        Node fast = head;
-        Node slow = head;
-        Node prev = null;
-
-        // Step 1: Detect the loop using Floyd's Cycle Detection Algorithm
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
-            slow = slow.next;
-
-            // Loop detected
-            if (fast == slow) {
-                break;
+    public static void removeLoop(Node head) 
+    {
+        Node fast=head;
+        Node slow=head;
+        
+        while(fast!=null && fast.next!=null)
+        {
+            fast=fast.next.next;
+            slow=slow.next;
+            
+            if(fast==slow)
+            {
+               break;
             }
         }
-
-        // If no loop is detected, return
-        if (fast == null || fast.next == null) {
-            return;
+        
+        if(slow!=fast)
+         return;
+         
+        slow=head;
+        Node prev=null;
+        while(slow!=fast)
+        {
+            prev=fast;
+            slow=slow.next;
+            fast=fast.next;
         }
-
-        // Step 2: Find the start of the loop
-        slow = head;
-        if (slow == fast) {
-            // Special case: Loop starts at the head
+         // If the loop starts at the head of the list:
+        if (slow == fast && prev == null) {
+            // Locate the last node in the loop to disconnect it.
             while (fast.next != slow) {
                 fast = fast.next;
             }
+            fast.next = null; // Break the loop.
         } else {
-            // General case: Move slow and fast until they meet at the start of the loop
-            while (slow.next != fast.next) {
-                slow = slow.next;
-                fast = fast.next;
-            }
+            // Break the loop for other cases.
+            prev.next = null;
         }
-
-        // Step 3: Break the loop
-        fast.next = null;
     }
 }
