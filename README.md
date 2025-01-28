@@ -62,6 +62,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -141,6 +142,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1876-map-of-highest-peak](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -300,6 +303,7 @@
 | [1558-course-schedule-iv](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Eulerian Circuit
 |  |
@@ -425,6 +429,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Memoization
 |  |
