@@ -68,6 +68,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
