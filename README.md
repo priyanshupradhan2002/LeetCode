@@ -41,6 +41,7 @@
 | [1063-best-sightseeing-pair](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -88,6 +89,7 @@
 | [0837-most-common-word](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -358,6 +360,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0169-majority-element) |
 | [0837-most-common-word](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0837-most-common-word) |
+| [1364-tuple-with-same-product](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
