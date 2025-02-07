@@ -73,6 +73,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -100,6 +101,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
@@ -159,6 +161,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
