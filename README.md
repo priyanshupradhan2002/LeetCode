@@ -392,6 +392,7 @@
 | [0070-climbing-stairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -500,4 +501,8 @@
 | [0820-find-eventual-safe-states](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
