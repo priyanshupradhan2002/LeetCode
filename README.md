@@ -113,6 +113,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1755-defuse-the-bomb](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -136,6 +137,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
