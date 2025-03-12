@@ -63,6 +63,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -302,6 +303,7 @@
 | [0792-binary-search](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -391,6 +393,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshupradhan2002/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
