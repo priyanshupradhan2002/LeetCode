@@ -56,6 +56,7 @@
 | [2145-grid-game](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -325,6 +326,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/priyanshupradhan2002/LeetCode/tree/master/0525-contiguous-array) |
 | [2145-grid-game](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/priyanshupradhan2002/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3427-special-array-ii](https://github.com/priyanshupradhan2002/LeetCode/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
